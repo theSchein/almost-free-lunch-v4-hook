@@ -1,0 +1,3 @@
+[submodule "almost-free-lunch/lib/forge-std"]
+	path = almost-free-lunch/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
